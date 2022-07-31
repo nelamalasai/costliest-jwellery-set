@@ -5,7 +5,7 @@ o=[]
 o.append(max(l))
 m=[]
 for i in range(n-1):
-    if l[i]<=l[i+1]:
+    if l[i]<l[i+1]:
         m.append(l[i])
     else:
         m.append(l[i])

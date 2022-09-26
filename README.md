@@ -14,3 +14,4 @@ for i in range(n-1):
 m.append(l[-1])
 o.append(sum(m))
 print(max(o))
+print("divya")
